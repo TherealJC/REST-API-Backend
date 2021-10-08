@@ -13,16 +13,12 @@
 Additional notes at: https://docs.google.com/document/d/1i-iWiRGgSE0j2Drvb5Kr12w8CoD9ltqWQzSySWcf7Ug/edit?usp=sharing.
 <br />
 <br />
-<br />
-<br />
-  
-  
 
   
   
 ## 📝 License
 
 Copyright © 2020 [Jamie Crowther](https://github.com/TherealJC).<br />
-This project is [MIT](https://github.com/TherealJC/rest-api-backend/LICENSE) licensed.
+This project is [MIT] (https://github.com/TherealJC/REST-API-Backend/blob/main/LICENSE) licensed.
 
 ***
