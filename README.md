@@ -1,4 +1,4 @@
-<h1 align="center">Jamies WEB601 Assessment One Repository 👋</h1>
+<h1 align="center">E-commerce REST API Backend Configuration 👋</h1>
 <p>
 <br />
 <h3 align="center">Author - Jamie Crowther 👋</h3>
