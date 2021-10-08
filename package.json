@@ -1,0 +1,41 @@
+{
+  "name": "rest-api-backend",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\"> Web app using nodeJS (express), mongodb (database and mongoose), JsonWebTokens (jwt for authorization/route protection) and more</h1>\r <p>\r   <img alt=\"Version\" src=\"https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000\" />\r   <a href=\"https://github.com/alikahwaji/Lab-template#readme\" target=\"_blank\">\r     <img alt=\"Documentation\" src=\"https://img.shields.io/badge/documentation-yes-brightgreen.svg\" />\r   </a>\r   <a href=\"https://github.com/alikahwaji/Lab-template/graphs/commit-activity\" target=\"_blank\">\r     <img alt=\"Maintenance\" src=\"https://img.shields.io/badge/Maintained%3F-yes-green.svg\" />\r   </a>\r   <a href=\"https://github.com/alikahwaji/Lab-template/blob/master/LICENSE\" target=\"_blank\">\r     <img alt=\"License: MIT\" src=\"https://img.shields.io/github/license/alikahwaji/lab-template\" />\r   </a>\r </p>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NMIT-GITHUB/web601-assessment-one-milestone-one-TherealJC.git"
+  },
+  "keywords": [
+    "npm",
+    "mongoose",
+    "jwt"
+  ],
+  "author": "Jamie Crowther",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NMIT-GITHUB/web601-assessment-one-milestone-one-TherealJC/issues"
+  },
+  "homepage": "https://github.com/NMIT-GITHUB/web601-assessment-one-milestone-one-TherealJC#readme",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "http-errors": "^1.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.5",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.2",
+    "redis": "^3.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
